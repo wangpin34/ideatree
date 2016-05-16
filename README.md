@@ -15,6 +15,6 @@
 * 最简洁的个人博客引擎 - nodejs
 * 根据技术栈的json数据，绘制技术three
 * 博客园手机客户端 - react-native
-* gituser badge --- github用户个性名片
+* [gitor](https://github.com/wangpin34/gitor) ---- gituser badge --- github用户个性名片
 * 邮箱客户端 桌面版(nwjs 或者 electron)，支持富文本和markdown
 * HTML5 照相机
