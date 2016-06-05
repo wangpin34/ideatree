@@ -10,7 +10,7 @@
 * [re](https://github.com/wangpin34/re) --- 富文本编辑器
 * [ac](https://github.com/wangpin34/ac) --- json formater
 * online 流程图
-* [graspt]()---展示当前浏览器对某些新特性的支持，例如对 es6 的支持情况
+* [graspt]() --- 展示当前浏览器对某些新特性的支持，例如对 es6 的支持情况
 * rss 阅读器
 * 个人博客引擎， react
 * 根据技术栈的json数据，绘制技术three
@@ -18,7 +18,9 @@
 * [gitor](https://github.com/wangpin34/gitor) ---- github badge --- github用户个性名片
 * 邮箱客户端 桌面版(electron)，支持富文本和markdown编辑方式
 * HTML5 照相机
+* npages --- chrome 扩展和应用
+* 小说阅读器 --- android
 * 
 
-### 已发布
-已完成项目会陆续发布到不同的平台，web项目会发布到国内代码托管平台或个人站点,以加快访问速度。app 会发布到主流平台，并提供二维码。
+### 发布
+web项目会发布到国内代码托管平台或个人站点,以加快访问速度。app 会发布到主流平台。
