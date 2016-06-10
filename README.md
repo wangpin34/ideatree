@@ -22,6 +22,7 @@
 * 小说阅读器 --- android
 * 美图-收集分享美图
 * [aplan](https://github.com/wangpin34/aplan) 个人计划管理 android
+* [allstackone](https://github.com/wangpin34/allstackone) --- 导航页面-全栈工程师常用网站和服务
 
 ### 发布
 web项目会发布到国内代码托管平台或个人站点,以加快访问速度。app 会发布到主流平台。
