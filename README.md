@@ -5,9 +5,9 @@
 ### 开发中
 * [fs-h5](https://github.com/wangpin34/fs-h5) ---- 将 HTML5 的 filesystem 封装成 nodejs filesysem 风格的 API
 * c-h5 --- 将 HTML5 的摄像头相关功能封装成 js API
-* [moli](https://github.com/wangpin34/moli) --- notebook
-* [me]() --- markdown 编辑器
-* [re](https://github.com/wangpin34/re) --- 富文本编辑器
+* [moli](https://github.com/wangpin34/moli) --- android notebook
+* [me]() --- 本地 markdown 编辑器,[electron](https://github.com/electron/electron)
+* [re](https://github.com/wangpin34/re) --- 富文本编辑器 online
 * [ac](https://github.com/wangpin34/ac) --- json formater
 * online 流程图
 * [graspt]() --- 展示当前浏览器对某些新特性的支持，例如对 es6 的支持情况
@@ -22,7 +22,7 @@
 * 小说阅读器 --- android
 * 美图-收集分享美图
 * [aplan](https://github.com/wangpin34/aplan) 个人计划管理 android
-* [allstackone](https://github.com/wangpin34/allstackone) --- 导航页面-全栈工程师常用网站和服务
+* [allstackone](https://github.com/wangpin34/allstackone) --- 导航页面-程序员经常逛的网站
 
 ### 发布
 web项目会发布到国内代码托管平台或个人站点,以加快访问速度。app 会发布到主流平台。
