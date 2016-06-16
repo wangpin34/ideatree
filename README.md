@@ -25,7 +25,7 @@
 * [allstackone](https://github.com/wangpin34/allstackone) --- 导航页面-程序员经常逛的网站
 
 #### 完成
-* [ac](https://github.com/wangpin34/ac) --- json formater
+* [ac](https://github.com/wangpin34/ac) [预览](http://wangpin34.github.io/ac/)
 
 
 ### 游戏
