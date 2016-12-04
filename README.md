@@ -20,7 +20,7 @@
 * [meitu](https://github.com/wangpin34/meitu)美图-收集分享美图
 * [aplan](https://github.com/wangpin34/aplan) 个人计划管理 android
 * [allstackone](https://github.com/wangpin34/allstackone) --- 导航页面-程序员经常逛的网站
-* ~~[ac-json formatter](https://github.com/wangpin34/ac)~~
+* ~~[ac-json 工具](https://github.com/wangpin34/ac)~~
 
 
 ## 游戏
