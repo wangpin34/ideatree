@@ -2,7 +2,7 @@
 全栈工程师练手项目集，小树快快长大吧。
 
 ## 应用
-* [moli](https://github.com/wangpin34/moli) --- android notebook
+* [moli](https://github.com/wangpin34/moli) --- notebook
 * [me]() --- 本地 markdown 编辑器,[electron](https://github.com/electron/electron)
 * [re](https://github.com/wangpin34/re) --- 富文本编辑器 online
 * online 流程图
@@ -15,7 +15,7 @@
 * 邮箱客户端 桌面版(electron)，支持富文本和markdown编辑方式
 * HTML5 照相机
 * npages --- chrome 扩展
-* 小说阅读器 --- android
+* 小说阅读器 --- 
 * 安卓手机文件浏览器
 * [meitu](https://github.com/wangpin34/meitu)美图-收集分享美图
 * [aplan](https://github.com/wangpin34/aplan) 个人计划管理 android
@@ -25,7 +25,7 @@
 
 ## 游戏
 * 俄罗斯方块
-* 平步青云
+* 贪吃蛇3d
 
 ## 爬虫
 * 猫扑图片爬虫
